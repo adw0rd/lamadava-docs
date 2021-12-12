@@ -1,8 +1,14 @@
+[tool.poetry]
+name = "lamadava"
+version = "0.1.0"
+description = ""
+authors = ["Lamadava <admin@lamadava.com>"]
+
 [build-system]
 requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "lumache"
-authors = [{name = "Graziella", email = "graziella@lumache"}]
+name = "lamadava"
+authors = [{name = "Lamadava", email = "admin@lamadava.com"}]
 dynamic = ["version", "description"]

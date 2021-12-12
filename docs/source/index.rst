@@ -1,22 +1,21 @@
-Welcome to Lumache's documentation!
+Lamadava SaaS documentation
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Lamadava** provide fault tolerant RESTful API for getting data from social networks, you can automate your publications, stories, direct, getting insights, followers, hashtags, GEO and much more else.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+`Lamadava SaaS <https://lamadava.com/>`_
+
+
+Check out the :doc:`rest` and :doc:`python` pages.
 
 .. note::
 
-   This project is under active development.
+   Documentation is under development
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   rest
+   python
