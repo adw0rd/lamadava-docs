@@ -1,4 +1,4 @@
-Usage
+Python
 =====
 
 .. _installation:
@@ -10,21 +10,12 @@ To use Lamadava, first install it using pip:
 
 .. code-block:: console
 
-   (.venv) $ pip install lamadava
+   $ pip install lamadava
 
-Creating recipes
-----------------
+Usage
+------------
 
-To retrieve a list of random ingredients,
-you can use the ``lamadava.get_random_ingredients()`` function:
-
-.. autofunction:: lamadava.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lamadava.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lamadava.InvalidKindError
+You need to pass the key to the Client and call the function you want to get the result
 
 For example:
 

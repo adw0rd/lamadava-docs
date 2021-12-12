@@ -1,9 +1,7 @@
-Lamadava SaaS documentation
+Lamadava documentation
 ===================================
 
-**Lamadava** provide fault tolerant RESTful API for getting data from social networks, you can automate your publications, stories, direct, getting insights, followers, hashtags, GEO and much more else.
-
-`Lamadava SaaS <https://lamadava.com/>`_
+`Lamadava SaaS <https://lamadava.com/>`_ provide fault tolerant RESTful API for getting data from social networks, you can automate your publications, stories, direct, getting insights, followers, hashtags, GEO and much more else.
 
 
 Check out the :doc:`rest` and :doc:`python` pages.
