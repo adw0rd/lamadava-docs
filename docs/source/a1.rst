@@ -1,7 +1,7 @@
-REST /a1
+/a1
 ========
 
-These endpoints are suitable for getting the data AS IS via "/?__a=1"
+Anonymous data retrieval AS IS via `/?__a=1`, such `https://instagram.com/instagram/?__a=1`
 
 .. _examples:
 

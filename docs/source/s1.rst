@@ -1,0 +1,12 @@
+/s1
+===========
+
+To work with this group of endpoints, you need to log in via `/s1/auth/login`
+
+.. code-block:: console
+
+    curl -X 'POST' \
+      'https://api.lamadava.com/s1/auth/login' \
+      -H 'accept: application/json' \
+      -H 'Content-Type: application/x-www-form-urlencoded' \
+      -d 'username=<USERNAME>&password=<PASSWORD>&verification_code=<123213>&proxy=&locale=&timezone='

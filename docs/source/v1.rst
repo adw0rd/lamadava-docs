@@ -1,0 +1,4 @@
+/v1
+===========
+
+Receiving data anonymously via the Mobile API

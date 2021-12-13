@@ -1,7 +1,7 @@
-REST /gql
+/gql
 ===========
 
-Getting data from the GraphQL API
+Anonymous data retrieval from the GraphQL API
 
 .. _examples:
 
