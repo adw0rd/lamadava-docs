@@ -16,4 +16,5 @@ Contents
 .. toctree::
 
    rest
+   rest_a1
    python
