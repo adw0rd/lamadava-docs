@@ -4,46 +4,46 @@
 Receiving data anonymously via the Mobile API
 
 /v1/user
-===========
+---------------
 
 Anonymous getting of user, followers and following users from Mobile API
 
 /v1/media
-===========
+---------------
 
 Anonymous getting of posts: Photos, Videos, Albums, IGTV, Reels from Mobile API
 
 /v1/story
-===========
+---------------
 
 Anonymous getting of stories from Mobile API
 
 /v1/highlight
-===============
+---------------
 
 Anonymous getting of highlights from Mobile API
 
 /v1/location
-==============
+---------------
 
 Anonymous getting of locations (GEO, places) from Mobile API
 
 /v1/hashtag
-=============
+---------------
 
 Anonymous getting of hashtags from Mobile API
 
 /v1/search
-============
+---------------
 
 Search by hashtags, users and music tracks via Mobile API
 
 /v1/fbsearch
-==============
+---------------
 
 Search by Facebook places (GEO, locations) and topsearch (users) via Mobile API
 
 /v1/share
-===========
+---------------
 
 Getting data from share links from Mobile API

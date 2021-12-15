@@ -3,10 +3,8 @@
 
 Anonymous data retrieval from the GraphQL API
 
-.. _examples:
-
-Examples
-------------
+/gql/comments
+----------------
 
 Getting comments:
 
@@ -59,4 +57,3 @@ Getting comments:
          }
       }
    ]
-

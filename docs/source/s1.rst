@@ -14,35 +14,35 @@ To work with this group of endpoints, you need to log in via "/s1/auth/login"
 In response, you will receive a "sessionid", with which you can perform any authorized requests.
 
 /s1/user
-============
+--------------
 
 You can receive data from private users to which your account is subscribed.
 
 Also you can subscribe, unsubscribe, remove follower, mute posts and stories from users.
 
 /s1/media
-============
+--------------
 
 You can receive medias (posts, publications) from private users to which your account is subscribed.
 
 Also you can delete, edit, like, unlike, view and archive media.
 
 /s1/story
-============
+--------------
 
 You can receive stories from private users to which your account is subscribed.
 
 Also you can mute and unmute stories from you followers.
 
 /s1/comment
-============
+--------------
 
 You can receive comments from private users to which your account is subscribed.
 
 Also you can add, like, unlike and delete your own comments.
 
 /s1/direct
-============
+--------------
 
 You can manage direct messages on your account.
 
